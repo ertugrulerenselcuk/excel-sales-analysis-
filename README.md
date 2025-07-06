@@ -66,7 +66,7 @@ All key insights were supported by original Excel screenshots.
 
 The full cleaned dataset is included below for reference and reproduction.
 
-📥 [Download excel-sales-data.xlsx](./data/excel-sales-data.xlsx)
+📂 **Download the Excel File**: [Click here to access excel-sales-data.xlsx via Google Drive](https://docs.google.com/spreadsheets/d/1R-ESHELXBUa1fEVTjO5X34ctvjrLflhy/edit?usp=sharing&ouid=102618739620148941630&rtpof=true&sd=true)
 ---
 
 
