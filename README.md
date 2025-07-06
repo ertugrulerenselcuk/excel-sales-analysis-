@@ -49,18 +49,17 @@ A comprehensive Excel-based sales analysis project. This analysis explores custo
 All key insights were supported by original Excel screenshots.
 
 ### 🖼 Sample Screens:
-
-| Metric Screenshot |                 Description                       |
-|-------------------|---------------------------------------------------|
-| `img1.png`        | Total Revenue, Customer Count                     |
-| `img2.png`        | Invoice                                           |
-| `img3.png`        | Invoice REMOVE DUPLICATE                          |
-| `img5.png`        | Invoice Count                                     |
-| `img6.png`        | Customer Duplicate                                |
-| `img8.png`        | Customer Count                                    |
-| `img9.png`        | Basket Size Calculations                          |
-| `img10.png`       | Average number of Invoice per Cus.                |
-| `img12.png`       | min-max date and All Calculations/basket size     |
+| Metric Screenshot                               | Description                                      |
+|--------------------------------------------------|--------------------------------------------------|
+| ![img1](./assets/img1.png)                       | Total Revenue, Customer Count                   |
+| ![img2](./assets/img2.png)                       | Invoice                                         |
+| ![img3](./assets/img3.png)                       | Invoice – Remove Duplicate                      |
+| ![img5](./assets/img5.png)                       | Invoice Count                                   |
+| ![img6](./assets/img6.png)                       | Duplicate Customer Detection                    |
+| ![img8](./assets/img8.png)                       | Customer Count                                  |
+| ![img9](./assets/img9.png)                       | Basket Size Calculations                        |
+| ![img10](./assets/img10.png)                     | Average Number of Invoices per Customer         |
+| ![img12](./assets/img12.png)                     | Min/Max Date + All Calculations Summary         |
 > ✅ All screenshots are stored in the `/assets` folder.
 
 ## 📄 Raw Data (Excel File)
