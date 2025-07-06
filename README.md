@@ -1,4 +1,4 @@
-[README.txt](https://github.com/user-attachments/files/21089315/README.txt)
+
 # 📊 Excel Sales Analysis (2010–2011)
 
 A comprehensive Excel-based sales analysis project. This analysis explores customer behavior, revenue trends, and basket metrics between December 2010 and December 2011.
